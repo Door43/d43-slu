@@ -10,6 +10,10 @@
   * [[slu:obs|Open Bible Stories (slu)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-slu|d43-slu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-slu/archive/master.zip|d43-slu.zip]]
+
 **Recent Changes**
 {{changes>ns = slu}}
 
