@@ -1,4 +1,4 @@
-  - [[slu:obs:01|Hulasokwe yala lait o lasmyer]]
+  - [[slu:obs:01|The Creation]]
   - [[slu:obs:02|Sin Enters the World]]
   - [[slu:obs:03|The Flood]]
   - [[slu:obs:04|God's Covenant with Abraham]]
@@ -48,3 +48,6 @@
   - [[slu:obs:48|Jesus is the Promised Messiah]]
   - [[slu:obs:49|God's New Covenant]]
   - [[slu:obs:50|Jesus Returns]]
+  * [[slu:obs:front-matter|Front Matter]]
+  * [[slu:obs:back-matter|Back Matter]]
+  * [[slu:obs:app_words|Mobile App Words]]
